@@ -12,6 +12,7 @@ jdflうぃrg；あおいrb：アんbrygflイdhくぁwせdrftgyふじこlp；＠
 
 
 
+<<<<<<< HEAD
 いえいえいえいえいえアアアアアア
 
 
@@ -19,3 +20,6 @@ jdflうぃrg；あおいrb：アんbrygflイdhくぁwせdrftgyふじこlp；＠
 
 あああああああああ
 アアアアアアアアアアア
+=======
+いえいえいえいえいえ
+>>>>>>> parent of ea679b7... 煮込み
